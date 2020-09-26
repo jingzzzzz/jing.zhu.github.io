@@ -25,11 +25,7 @@ Professional Experience
 Publications
 ======
 
-<img src="/images/BMVC_Depth.png" alt="drawing" align="left" width="220" height="180"/> [**MDA-Net: Memorable Domain Adaptation Network for Monocular Depth Estimation**](https://www.bmvc2020-conference.com/conference/papers/paper_0790.html)
-
- **Jing Zhu**, [Yunxiao Shi](https://kentsyx.github.io), Mengwei Ren, [Yi Fang](http://mmvc.engineering.nyu.edu) 
-
- _British Machine Vision Conference (BMVC) 2020_
+<img src="/images/BMVC_Depth.png" alt="drawing" align="left" width="220" height="180"/> [**MDA-Net: Memorable Domain Adaptation Network for Monocular Depth Estimation**](https://www.bmvc2020-conference.com/conference/papers/paper_0790.html) <br>   **Jing Zhu**, [Yunxiao Shi](https://kentsyx.github.io), Mengwei Ren, [Yi Fang](http://mmvc.engineering.nyu.edu) <br>    _British Machine Vision Conference (BMVC) 2020_
 
 ----
 <img src="/images/WACV_Match.png" alt="drawing" align="left" width="220" height="180"/>  [**Reference Grid-assisted Network for 3D Point Signature Learning from Point Clouds**](https://openaccess.thecvf.com/content_WACV_2020/papers/Zhu_Reference_Grid-assisted_Network_for_3D_Point_Signature_Learning_from_Point_WACV_2020_paper.pdf), 
