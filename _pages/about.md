@@ -25,7 +25,10 @@ Professional Experience
 Publications
 ======
 
-<img src="/images/BMVC_Depth.png" alt="drawing" align="left" width="200"/> [MDA-Net: Memorable Domain Adaptation Network for Monocular Depth Estimation](https://www.bmvc2020-conference.com/conference/papers/paper_0790.html), **Jing Zhu**, Yunxiao Shi, Mengwei Ren, Yi Fang, British Machine Vision Conference (BMVC) 2020.
+<img src="/images/BMVC_Depth.png" alt="drawing" align="left" width="200"/> 
+[MDA-Net: Memorable Domain Adaptation Network for Monocular Depth Estimation](https://www.bmvc2020-conference.com/conference/papers/paper_0790.html)
+**Jing Zhu**, Yunxiao Shi, Mengwei Ren, Yi Fang 
+British Machine Vision Conference (BMVC) 2020.
 
 ----
 <img src="/images/Paper_DistFrom2D.png" alt="drawing" width="200"/> [Reference Grid-assisted Network for 3D Point Signature Learning from Point Clouds](https://openaccess.thecvf.com/content_WACV_2020/papers/Zhu_Reference_Grid-assisted_Network_for_3D_Point_Signature_Learning_from_Point_WACV_2020_paper.pdf), **Jing Zhu**, Yi Fang. The Winter Conference on Applications of Computer Vision (WACV) 2020.
