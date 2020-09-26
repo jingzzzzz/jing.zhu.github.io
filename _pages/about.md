@@ -25,34 +25,41 @@ Professional Experience
 Publications
 ======
 
-<img src="/images/BMVC_Depth.png" alt="drawing" align="left" width="200"/> 
-[MDA-Net: Memorable Domain Adaptation Network for Monocular Depth Estimation](https://www.bmvc2020-conference.com/conference/papers/paper_0790.html)
+<img src="/images/BMVC_Depth.png" alt="drawing" align="left" width="200"/> [MDA-Net: Memorable Domain Adaptation Network for Monocular Depth Estimation](https://www.bmvc2020-conference.com/conference/papers/paper_0790.html)
 
 **Jing Zhu**, Yunxiao Shi, Mengwei Ren, Yi Fang 
 British Machine Vision Conference (BMVC) 2020.
 
 ----
-<img src="/images/Paper_DistFrom2D.png" alt="drawing" width="200"/> [Reference Grid-assisted Network for 3D Point Signature Learning from Point Clouds](https://openaccess.thecvf.com/content_WACV_2020/papers/Zhu_Reference_Grid-assisted_Network_for_3D_Point_Signature_Learning_from_Point_WACV_2020_paper.pdf), **Jing Zhu**, Yi Fang. The Winter Conference on Applications of Computer Vision (WACV) 2020.
+<img src="/images/WACV_Match.png" alt="drawing" align="left" width="200"/> [Reference Grid-assisted Network for 3D Point Signature Learning from Point Clouds](https://openaccess.thecvf.com/content_WACV_2020/papers/Zhu_Reference_Grid-assisted_Network_for_3D_Point_Signature_Learning_from_Point_WACV_2020_paper.pdf), **Jing Zhu**, Yi Fang. The Winter Conference on Applications of Computer Vision (WACV) 2020.
 
 ----
-<img src="/images/Paper_DistFrom2D.png" alt="drawing" width="200"/> [Learning Object-specific Distance from a Monocular Image, accepted by International Conference on Computer Vision](https://openaccess.thecvf.com/content_ICCV_2019/papers/Zhu_Learning_Object-Specific_Distance_From_a_Monocular_Image_ICCV_2019_paper.pdf), **Jing Zhu**, Yi Fang, International Conference on Computer Vision (ICCV) 2019.
+<img src="/images/Paper_DistFrom2D.png" alt="drawing" align="left" width="200"/> [Learning Object-specific Distance from a Monocular Image, accepted by International Conference on Computer Vision](https://openaccess.thecvf.com/content_ICCV_2019/papers/Zhu_Learning_Object-Specific_Distance_From_a_Monocular_Image_ICCV_2019_paper.pdf), **Jing Zhu**, Yi Fang, International Conference on Computer Vision (ICCV) 2019.
 
 ----
-<img src="/images/3DV_PointFeature.png" alt="drawing" width="200"/> Pairwise Attention Encoding for Point Cloud Feature Learning, Yunxiao Shi, Haoyu Fang, **Jing Zhu**, Yi Fang, International Conference on 3D Vision (3DV) 2019
+<img src="/images/3DV_PointFeature.png" alt="drawing" align="left" width="200"/> Pairwise Attention Encoding for Point Cloud Feature Learning, Yunxiao Shi, Haoyu Fang, **Jing Zhu**, Yi Fang, International Conference on 3D Vision (3DV) 2019
 
 ----
-[Learning Local Descriptors with Adversarial Enhancer from Volumetric Geometry Patches](), **Jing Zhu**, Yi Fang, the 26th ACM International Conference on Multimedia (ACM MM) 2018. 
+<img src="/images/ACMMM_Match.png" alt="drawing" align="left" width="200"/> [Learning Local Descriptors with Adversarial Enhancer from Volumetric Geometry Patches]()
+**Jing Zhu**, Yi Fang
+the 26th ACM International Conference on Multimedia (ACM MM) 2018. 
 
 ----
-[Learning Adversarial 3D Model Generation With 2D Image Enhancer](https://www.aaai.org/ocs/index.php/AAAI/AAAI18/paper/view/16064), **Jing Zhu**, Jin Xie and Yi Fang, Thirty-Second AAAI Conference on Artificial Intelligence (AAAI) 2018
+<img src="/images/AAAI_ModelGen.png" alt="drawing" align="left" width="200"/> [Learning Adversarial 3D Model Generation With 2D Image Enhancer](https://www.aaai.org/ocs/index.php/AAAI/AAAI18/paper/view/16064)
+**Jing Zhu**, Jin Xie and Yi Fang
+the Thirty-Second AAAI Conference on Artificial Intelligence (AAAI) 2018
 
 ----
-[Learning Domain-invariant Feature for Robust Depth-image-based 3D Shape Retrieval](), **Jing Zhu**, John-Ross Rizzo and Yi Fang. Pattern Recognition Letters (PRL), 2017.
+<img src="/images/PRL_DepthRetrival.png" alt="drawing" align="left" width="200"/> [Learning Domain-invariant Feature for Robust Depth-image-based 3D Shape Retrieval]()
+**Jing Zhu**, John-Ross Rizzo and Yi Fang
+Pattern Recognition Letters (PRL), 2017.
 
 ----
-[Learning Pairwise Neural Network Encoder for Depth Image-based 3D Model Retrieval](), **Jing Zhu**, Fan Zhu, Edward Wong and Yi Fang, the 23rd Annual ACM International Conference on Multimedia (ACM MM) 2015
+<img src="/images/ACMMM_DepthRetrieval.png" alt="drawing" align="left" width="200"/> [Learning Pairwise Neural Network Encoder for Depth Image-based 3D Model Retrieval](), 
+**Jing Zhu**, Fan Zhu, Edward Wong and Yi Fang
+the 23rd Annual ACM International Conference on Multimedia (ACM MM) 2015
 
-[A Dynamic Density-Based Clustering Algorithm Appropriate to Large-Scale Text Processing](), Xia Li, Shengyi Jiang, Qiansheng Zhang, **Jing Zhu**, the 1st CCF Conference on Natural Language Processing & Chinese Computing(NLP & CC), and Acta Scientiarum Naturalium Univer- sitatis Pekinensis, 2013, 49(1): 133-139.
+<img src="/images/NLP_Clustering.png" alt="drawing" align="left" width="200"/> [A Dynamic Density-Based Clustering Algorithm Appropriate to Large-Scale Text Processing](), Xia Li, Shengyi Jiang, Qiansheng Zhang, **Jing Zhu**, the 1st CCF Conference on Natural Language Processing & Chinese Computing(NLP & CC), and Acta Scientiarum Naturalium Univer- sitatis Pekinensis, 2013, 49(1): 133-139.
 
 Service 
 ======
