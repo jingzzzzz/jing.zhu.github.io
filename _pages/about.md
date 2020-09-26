@@ -19,7 +19,7 @@ Professional Experience
 ======
 * Sept. 2020 - Present, Research Scientist at Samsung Research America, Inc
 * Mar. 2020 - May 2020, Intern at Apple, Inc
-* Sept. 2015 - May 2020, Research Assistant at NYU Multimedia and Visual Computing Lab
+* Sept. 2015 - May 2020, Research Assistant at [NYU Multimedia and Visual Computing Lab](http://mmvc.engineering.nyu.edu)
 * Feb. 2013 - May 2013, Intern at IBM (China)
 
 Publications
