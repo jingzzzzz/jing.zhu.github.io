@@ -11,16 +11,16 @@ I am currently a research scientist at Samsung Research America AI Center, worki
 
 Education
 ======
-*Ph.D. in Computer Science, New York University, NY, United States, 2016-2020
-*M.S. in Computer Science, New York Univeristy, NY, United States, 2013-2015
-*B.Eng. in Software Engineering, Guangdong University of Foreign Studies, Guangzhou, China, 2009-2013
+* Ph.D. in Computer Science, New York University, NY, United States, 2016-2020
+* M.S. in Computer Science, New York Univeristy, NY, United States, 2013-2015
+* B.Eng. in Software Engineering, Guangdong University of Foreign Studies, Guangzhou, China, 2009-2013
 
 Professional Experience
 ======
-*Sept. 2020 - present, Research Scientist at Samsung Research America, Inc
-*Mar. 2020 - May 2020, Intern at Apple, Inc
-*Sept. 2015 - May 2020, Research Assistant at NYU Multimedia and Visual Computing Lab
-*Feb. 2013 - May 2013, Intern at IBM (China)
+* Sept. 2020 - present, Research Scientist at Samsung Research America, Inc
+* Mar. 2020 - May 2020, Intern at Apple, Inc
+* Sept. 2015 - May 2020, Research Assistant at NYU Multimedia and Visual Computing Lab
+* Feb. 2013 - May 2013, Intern at IBM (China)
 
 Service 
 ======
@@ -38,8 +38,8 @@ Publications
 
 Teaching 
 ======
-*Data Structures and Algorithms, Machine Learning
-*3D Computer Vision: Techniques and Applications
-*Advanced 3D Computer Vision
-*Design and Analysis of Algorithms I
+* Data Structures and Algorithms, Machine Learning
+* 3D Computer Vision: Techniques and Applications
+* Advanced 3D Computer Vision
+* Design and Analysis of Algorithms I
 
