@@ -24,9 +24,9 @@ Professional Experience
 
 Publications
 ======
-* ![GitHub Logo](/images/Paper_DistFrom2D.png)[MDA-Net: Memorable Domain Adaptation Network for Monocular Depth Estimation](https://www.bmvc2020-conference.com/conference/papers/paper_0790.html), British Machine Vision Conference (BMVC) 2020.
-* [Reference Grid-assisted Network for 3D Point Signature Learning from Point Clouds](https://openaccess.thecvf.com/content_WACV_2020/papers/Zhu_Reference_Grid-assisted_Network_for_3D_Point_Signature_Learning_from_Point_WACV_2020_paper.pdf), The Winter Conference on Applications of Computer Vision (WACV) 2020.
-* [Learning Object-specific Distance from a Monocular Image, accepted by Inter- national Conference on Computer Vision](https://openaccess.thecvf.com/content_ICCV_2019/papers/Zhu_Learning_Object-Specific_Distance_From_a_Monocular_Image_ICCV_2019_paper.pdf), International Conference on Computer Vision (ICCV) 2019.
+* <img src="/images/Paper_DistFrom2D.png" alt="drawing" width="200"/> [MDA-Net: Memorable Domain Adaptation Network for Monocular Depth Estimation](https://www.bmvc2020-conference.com/conference/papers/paper_0790.html), British Machine Vision Conference (BMVC) 2020.
+* <img src="/images/Paper_DistFrom2D.png" alt="drawing" width="200"/> [Reference Grid-assisted Network for 3D Point Signature Learning from Point Clouds](https://openaccess.thecvf.com/content_WACV_2020/papers/Zhu_Reference_Grid-assisted_Network_for_3D_Point_Signature_Learning_from_Point_WACV_2020_paper.pdf), The Winter Conference on Applications of Computer Vision (WACV) 2020.
+* <img src="/images/Paper_DistFrom2D.png" alt="drawing" width="200"/> [Learning Object-specific Distance from a Monocular Image, accepted by Inter- national Conference on Computer Vision](https://openaccess.thecvf.com/content_ICCV_2019/papers/Zhu_Learning_Object-Specific_Distance_From_a_Monocular_Image_ICCV_2019_paper.pdf), International Conference on Computer Vision (ICCV) 2019.
 * [Learning Local Descriptors with Adversarial Enhancer from Volumetric Geometry Patches](), the 26th ACM International Conference on Multimedia (ACM MM) 2018. 
 * [Learning Adversarial 3D Model Generation With 2D Image Enhancer](https://www.aaai.org/ocs/index.php/AAAI/AAAI18/paper/view/16064), Thirty-Second AAAI Conference on Artificial Intelligence (AAAI) 2018
 
