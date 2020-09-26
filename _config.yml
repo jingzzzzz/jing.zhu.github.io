@@ -85,7 +85,7 @@ author:
   bio              : "I am a research scientist at Samsung Research America, and I work on 3D computer vision projects. I received my PhD from New York University, where I was advised by Prof. Yi Fang. I also did my master at New York Univeristy."
   location         : "New York, USA"
   employer         :
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
+  pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "https://scholar.google.com/citations?user=yoo-h2QAAAAJ&hl=en"
   email            : "jingzhu@nyu.edu"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
@@ -181,12 +181,12 @@ collections:
   publications:
     output: true
     permalink: /:collection/:path/
-  portfolio:
-    output: true
-    permalink: /:collection/:path/
-  talks:
-    output: true
-    permalink: /:collection/:path/
+#   portfolio:
+#     output: true
+#     permalink: /:collection/:path/
+#   talks:
+#     output: true
+#     permalink: /:collection/:path/
 
 
 # Defaults
