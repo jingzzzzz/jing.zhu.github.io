@@ -38,7 +38,11 @@ Reviewer of
 
 Teaching 
 ======
-* Data Structures and Algorithms, Machine Learning
+Undergradute:
+* Data Structures and Algorithms
+* Machine Learning
+
+Graduate:
 * 3D Computer Vision: Techniques and Applications
 * Advanced 3D Computer Vision
 * Design and Analysis of Algorithms I
