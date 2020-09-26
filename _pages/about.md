@@ -27,6 +27,7 @@ Publications
 
 <img src="/images/BMVC_Depth.png" alt="drawing" align="left" width="200"/> 
 [MDA-Net: Memorable Domain Adaptation Network for Monocular Depth Estimation](https://www.bmvc2020-conference.com/conference/papers/paper_0790.html)
+
 **Jing Zhu**, Yunxiao Shi, Mengwei Ren, Yi Fang 
 British Machine Vision Conference (BMVC) 2020.
 
