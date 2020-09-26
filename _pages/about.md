@@ -22,12 +22,6 @@ Professional Experience
 * Sept. 2015 - May 2020, Research Assistant at NYU Multimedia and Visual Computing Lab
 * Feb. 2013 - May 2013, Intern at IBM (China)
 
-Service 
-======
-Reviewer of 
-*Conference: CVPR, IROS, ICRA, BMVC
-*Journal: TIP, TMM, TNNLS, ACM Computing Surveys, IEEE Access
-
 Publications
 ======
 * [MDA-Net: Memorable Domain Adaptation Network for Monocular Depth Estimation](https://www.bmvc2020-conference.com/conference/papers/paper_0790.html), British Machine Vision Conference (BMVC) 2020.
@@ -35,6 +29,12 @@ Publications
 * [Learning Object-specific Distance from a Monocular Image, accepted by Inter- national Conference on Computer Vision](https://openaccess.thecvf.com/content_ICCV_2019/papers/Zhu_Learning_Object-Specific_Distance_From_a_Monocular_Image_ICCV_2019_paper.pdf), International Conference on Computer Vision (ICCV) 2019.
 * [Learning Local Descriptors with Adversarial Enhancer from Volumetric Geometry Patches](), the 26th ACM International Conference on Multimedia (ACM MM) 2018. 
 * [Learning Adversarial 3D Model Generation With 2D Image Enhancer](https://www.aaai.org/ocs/index.php/AAAI/AAAI18/paper/view/16064), Thirty-Second AAAI Conference on Artificial Intelligence (AAAI) 2018
+
+Service 
+======
+Reviewer of 
+* Conference: CVPR, IROS, ICRA, BMVC
+* Journal: TIP, TMM, TNNLS, ACM Computing Surveys, IEEE Access
 
 Teaching 
 ======
