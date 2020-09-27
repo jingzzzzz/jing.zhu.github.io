@@ -55,9 +55,10 @@ Publications
 
 
 ----
-<img src="/images/NLP_Clustering.png" alt="drawing" align="left" width="200" height="150"/>    [**A Dynamic Density-Based Clustering Algorithm Appropriate to Large-Scale Text Processing**](https://jingzzzzz.github.io/files/DynamicClusteringAlgorithm.pdf) <br>   Xia Li, Shengyi Jiang, Qiansheng Zhang, **Jing Zhu** <br>   _the 1st CCF Conference on Natural Language Processing & Chinese Computing(NLP & CC), and Acta Scientiarum Naturalium Univer- sitatis Pekinensis, 2013, 49(1): 133-139_ <br/> 
+<img src="/images/NLP_Clustering.png" alt="drawing" align="left" width="200" height="150"/>    [**A Dynamic Density-Based Clustering Algorithm Appropriate to Large-Scale Text Processing**](https://jingzzzzz.github.io/files/DynamicClusteringAlgorithm.pdf) <br>   Xia Li, Shengyi Jiang, Qiansheng Zhang, **Jing Zhu** <br>   _the 1st CCF Conference on Natural Language Processing & Chinese Computing(NLP & CC), and Acta Scientiarum Naturalium Univer- sitatis Pekinensis, 2013, 49(1): 133-139_ <br/><br/><br/>
 
 ----
+<br/>
 
 
 Service 
