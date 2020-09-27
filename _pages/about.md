@@ -40,11 +40,11 @@ Publications
 <img src="/images/Paper_DistFrom2D.png" alt="drawing" align="left" width="200" height="150"/>  [**Learning Object-specific Distance from a Monocular Image, accepted by International Conference on Computer Vision**](https://openaccess.thecvf.com/content_ICCV_2019/papers/Zhu_Learning_Object-Specific_Distance_From_a_Monocular_Image_ICCV_2019_paper.pdf) <br>   **Jing Zhu**, [Yi Fang](http://mmvc.engineering.nyu.edu) <br>   _the International Conference on Computer Vision (ICCV) 2019_ <br> 
 
 ----
-<img src="/images/3DV_PointFeature.png" alt="drawing" align="left" width="200" height="150"/> ![**Pairwise Attention Encoding for Point Cloud Feature Learning**]('http://academicpages.github.io/files/3dv.pdf) <br>   [Yunxiao Shi](https://kentsyx.github.io), Haoyu Fang, **Jing Zhu**, [Yi Fang](http://mmvc.engineering.nyu.edu) <br>   _International Conference on 3D Vision (3DV) 2019_ <br> 
+<img src="/images/3DV_PointFeature.png" alt="drawing" align="left" width="200" height="150"/> [**Pairwise Attention Encoding for Point Cloud Feature Learning**](http://jingzzzzz.github.io/files/3dv.pdf) <br>   [Yunxiao Shi](https://kentsyx.github.io), Haoyu Fang, **Jing Zhu**, [Yi Fang](http://mmvc.engineering.nyu.edu) <br>   _International Conference on 3D Vision (3DV) 2019_ <br> 
 
 
 ----
-<img src="/images/ACMMM_Match.png" alt="drawing" align="left" width="200" height="150"/>  [**Learning Local Descriptors with Adversarial Enhancer from Volumetric Geometry Patches**]() <br>   **Jing Zhu**, [Yi Fang](http://mmvc.engineering.nyu.edu) <br>   _the 26th ACM International Conference on Multimedia (ACM MM) 2018_ <br> 
+<img src="/images/ACMMM_Match.png" alt="drawing" align="left" width="200" height="150"/>  [**Learning Local Descriptors with Adversarial Enhancer from Volumetric Geometry Patches**](http://jingzzzzz.github.io/files/ACMMM2018.pdf) <br>   **Jing Zhu**, [Yi Fang](http://mmvc.engineering.nyu.edu) <br>   _the 26th ACM International Conference on Multimedia (ACM MM) 2018_ <br> 
 
 
 ----
@@ -52,7 +52,7 @@ Publications
 
 
 ----
-<img src="/images/PRL_DepthRetrival.png" alt="drawing" align="left" width="200" height="150"/> [**Learning Domain-invariant Feature for Robust Depth-image-based 3D Shape Retrieval**]() <br>   **Jing Zhu**, [John-Ross Rizzo](https://med.nyu.edu/faculty/johnross-rizzo) and [Yi Fang](http://mmvc.engineering.nyu.edu) <br>   _Pattern Recognition Letters (PRL), 2017_ <br> 
+<img src="/images/PRL_DepthRetrival.png" alt="drawing" align="left" width="200" height="150"/> [**Learning Domain-invariant Feature for Robust Depth-image-based 3D Shape Retrieval**](http://jingzzzzz.github.io/files/PR-Letters.pdf) <br>   **Jing Zhu**, [John-Ross Rizzo](https://med.nyu.edu/faculty/johnross-rizzo) and [Yi Fang](http://mmvc.engineering.nyu.edu) <br>   _Pattern Recognition Letters (PRL), 2017_ <br> 
 
 
 ----
