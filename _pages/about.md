@@ -27,6 +27,8 @@ Publications
 
 <img src="/images/BMVC_Depth.png" alt="drawing" align="left" width="200" height="150"/> [**MDA-Net: Memorable Domain Adaptation Network for Monocular Depth Estimation**](https://www.bmvc2020-conference.com/conference/papers/paper_0790.html) <br>   **Jing Zhu**, [Yunxiao Shi](https://kentsyx.github.io), Mengwei Ren, [Yi Fang](http://mmvc.engineering.nyu.edu) <br>    _British Machine Vision Conference (BMVC) 2020_ <br>      
 
+     
+
 
 
 
@@ -38,7 +40,7 @@ Publications
 <img src="/images/Paper_DistFrom2D.png" alt="drawing" align="left" width="200" height="150"/>  [**Learning Object-specific Distance from a Monocular Image, accepted by International Conference on Computer Vision**](https://openaccess.thecvf.com/content_ICCV_2019/papers/Zhu_Learning_Object-Specific_Distance_From_a_Monocular_Image_ICCV_2019_paper.pdf) <br>   **Jing Zhu**, [Yi Fang](http://mmvc.engineering.nyu.edu) <br>   _the International Conference on Computer Vision (ICCV) 2019_
 
 ----
-<img src="/images/3DV_PointFeature.png" alt="drawing" align="left" width="200" height="150"/> [**Pairwise Attention Encoding for Point Cloud Feature Learning**]('http://academicpages.github.io/files/3dv.pdf) <br>   [Yunxiao Shi](https://kentsyx.github.io), Haoyu Fang, **Jing Zhu**, [Yi Fang](http://mmvc.engineering.nyu.edu) <br>   _International Conference on 3D Vision (3DV) 2019_
+<img src="/images/3DV_PointFeature.png" alt="drawing" align="left" width="200" height="150"/> ![**Pairwise Attention Encoding for Point Cloud Feature Learning**]('http://academicpages.github.io/files/3dv.pdf) <br>   [Yunxiao Shi](https://kentsyx.github.io), Haoyu Fang, **Jing Zhu**, [Yi Fang](http://mmvc.engineering.nyu.edu) <br>   _International Conference on 3D Vision (3DV) 2019_
 
 ----
 <img src="/images/ACMMM_Match.png" alt="drawing" align="left" width="200" height="150"/>  [**Learning Local Descriptors with Adversarial Enhancer from Volumetric Geometry Patches**]() <br>   **Jing Zhu**, [Yi Fang](http://mmvc.engineering.nyu.edu) <br>   _the 26th ACM International Conference on Multimedia (ACM MM) 2018_ 
