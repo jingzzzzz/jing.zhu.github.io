@@ -3,8 +3,7 @@ permalink: /research/
 title: "Research"
 excerpt: "Home"
 author_profile: true
-redirect_from: 
-  - /
+
 ---
 I am currently a research scientist at Samsung Research America AI Center, working on 3D computer vision projects. I received her PhD from New York University and advised by [Prof. Yi Fang](http://mmvc.engineering.nyu.edu). My PhD dissertation title "(3D) Geometric Feature Learning from 2D Images" obtained **2020 NYU Pearl Brownstein Doctoral Research Award** (awarded to PhD students whose doctoral research shows the greatest promise). I also did my master at New York University, where I worked with [Prof. Edward Wong](https://engineering.nyu.edu/faculty/edward-wong).
 
