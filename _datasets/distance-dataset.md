@@ -1,9 +1,8 @@
 ---
 title: "Object-specific Distance Dataset"
 collection: datasets
+type: "Dataset"
 permalink: /datasets/distance-dataset
-redirect_from:
-  - /datasets/distance-dataset
 ---
 
 <img src="/images/DistanceDataset.png" alt="drawing" align="left" width="400" height="250"/>  
