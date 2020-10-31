@@ -1,11 +1,13 @@
 ---
-title: "Dataset 1"
+title: "Object-specific Distance Dataset"
 collection: datasets
 type: "Object-specific Distance Datasets"
 permalink: /datasets/distance_dataset
 ---
+<img src="/images/DistanceDataset.png" alt="drawing" align="left" width="400" height="250"/>  
 
-This is a description of a teaching experience. You can use markdown like any other post.
+Datasets constructed based on KITTI or NuScenes object detection datasets. For each object in the RGB image, we calculate a object-specific distance (in meters) from a set of LiDAR point clouds. 
+
 
 Heading 1
 ======
