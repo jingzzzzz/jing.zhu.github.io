@@ -1,8 +1,8 @@
 ---
 title: "Object-specific Distance Dataset"
 collection: datasets
-type: "Object-specific Distance Datasets"
-permalink: /dataset/distance-dataset
+permalink: /datasets/distance-dataset
+
 ---
 <img src="/images/DistanceDataset.png" alt="drawing" align="left" width="400" height="250"/>  
 
