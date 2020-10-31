@@ -182,8 +182,8 @@ collections:
     output: true
     permalink: /:collection/:path/
   datasets:
-    ouput:true
-    permalink:/:collection/:path/
+    ouput: true
+    permalink: /:collection/:path/
 #   portfolio:
 #     output: true
 #     permalink: /:collection/:path/
