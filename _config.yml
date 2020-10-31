@@ -181,7 +181,7 @@ collections:
   publications:
     output: true
     permalink: /:collection/:path/
-  datsaets:
+  datasets:
     ouput:true
     permalink:/:collection/:path/
 #   portfolio:
