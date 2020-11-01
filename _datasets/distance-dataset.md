@@ -27,6 +27,13 @@ If you are using any part of our Object-specific Distance dataset(s), please add
 
 {% bibliography --cited --file My-Awesome-Tutorial/master_refs.bib  %}
 
+---
+title: "Sample Document"
+output: html_document
+bibliography: bibliography.bib
+csl: biomed-central.csl
+---
+
 As Kanye West said:
 
 > We're living the future so
