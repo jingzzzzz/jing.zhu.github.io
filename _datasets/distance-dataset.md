@@ -10,6 +10,7 @@ Datasets constructed based on KITTI and NuScenes object detection datasets. For 
 
 <img src="/images/DistanceDataset.png" alt="drawing" align="left" width="600" height="350"/>  
 
+\\
 
 
 Citation
@@ -32,11 +33,14 @@ As Kanye West said:
 
 License
 --------
-Please notice that this dataset is made availbale for academic research purpose only. The copyright of the original data (i.e., object annotaion, images, LiDAR point clouds) belongs to the original owners (KITTI or NuScenes team).
+Please notice that this dataset is made availbale for academic research purpose only. The copyright of the original data (i.e., object annotaion, images, LiDAR point clouds) belongs to the original owners (KITTI or NuScenes team). \\
 
 
 Download
 --------
+[KITTI-based Distance Dataset]()
+[NuScenes-based Distance Dataset]()
+
 
 
 
