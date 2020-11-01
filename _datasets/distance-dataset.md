@@ -2,10 +2,10 @@
 title: "Object-specific Distance Dataset"
 collection: datasets
 type: "Teaching"
-date: 2009-10-01
-excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
 permalink: /datasets/distance-dataset
+date: 2014-01-01
 ---
+
 
 <img src="/images/DistanceDataset.png" alt="drawing" align="left" width="400" height="250"/>  
 
