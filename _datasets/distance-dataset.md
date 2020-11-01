@@ -1,9 +1,9 @@
 ---
 title: "Object-specific Distance Dataset"
 collection: datasets
-type: "Teaching"
+type: "Datasets"
 permalink: /datasets/distance-dataset
-date: 2014-01-01
+#date: 2014-01-01
 ---
 
 
