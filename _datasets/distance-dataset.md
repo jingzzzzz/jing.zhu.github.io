@@ -25,6 +25,8 @@ If you are using any part of our Object-specific Distance dataset(s), please add
   year={2019}\\
 }
 
+{% bibliography --cited --file My-Awesome-Tutorial/master_refs.bib  %}
+
 As Kanye West said:
 
 > We're living the future so
