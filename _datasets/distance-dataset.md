@@ -5,9 +5,11 @@ type: "Datasets"
 permalink: /datasets/distance-dataset
 #date: 2014-01-01
 ---
-<img src="/images/DistanceDataset.png" alt="drawing" align="left" width="400" height="250"/>  
 
 Datasets constructed based on KITTI or NuScenes object detection datasets. For each object in the RGB image, we calculate a object-specific distance (in meters) from a set of LiDAR point clouds. 
+
+<img src="/images/DistanceDataset.png" alt="drawing" align="left" width="600" height="350"/>  
+
 
 
 Heading 1
