@@ -36,9 +36,8 @@ Please notice that this dataset is made availbale for **academic research purpos
 
 Download
 --------
-[KITTI-based Distance Dataset]()
-
-[Code to calculate distance annotation]()
+*[KITTI-based Distance Dataset]()
+*[Code to calculate distance annotation]()
 
 NuScenes-based Distance Dataset(*to be released*)
 
