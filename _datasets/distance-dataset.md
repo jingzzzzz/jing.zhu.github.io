@@ -26,9 +26,15 @@ If you are using any part of our Object-specific Distance dataset(s), please add
 >   year={2019} \\
 > }
 
+
 License
 --------
-Please notice that this dataset is made availbale for academic research purpose only. The copyright of the original data (i.e., object annotaion, images, LiDAR point clouds) belongs to the original owners (KITTI or NuScenes team). \\
+Please notice that this dataset is made availbale for academic research purpose only. The copyright of the original data (i.e., object annotaion, images, LiDAR point clouds) belongs to the original owners (KITTI or NuScenes team). 
+
+
+Data overview
+-----
+
 
 
 Download
@@ -39,9 +45,3 @@ Download
 
 
 
-
-Heading 2
-======
-
-Heading 3
-======
