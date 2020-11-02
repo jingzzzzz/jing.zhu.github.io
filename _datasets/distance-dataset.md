@@ -13,8 +13,6 @@ Datasets constructed based on KITTI and NuScenes object detection datasets. For 
 
 
 
-
-
 Citation
 --------
 If you are using any part of our Object-specific Distance dataset(s) or codes, please add a reference to our paper. All the original data (i.e., object annoations, RGB images, LiDAR point clouds) is from [KITTT](http://www.cvlibs.net/datasets/kitti/eval_object.php?obj_benchmark=3d) or [NuScenes](https://www.nuscenes.org) datasets. Please cite their paper(s) as well. 
