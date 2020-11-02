@@ -17,7 +17,7 @@ Citation
 --------
 If you are using any part of our Object-specific Distance dataset(s), please add a reference to our paper. All the original data (i.e., object annoations, RGB images, LiDAR point clouds) is from [KITTT](http://www.cvlibs.net/datasets/kitti/eval_object.php?obj_benchmark=3d) or [NuScenes](https://www.nuscenes.org) datasets. Please cite their paper(s) as well. 
 
-``
+`
 @inproceedings{zhu2019learning,
   title={Learning object-specific distance from a monocular image},
   author={Zhu, Jing and Fang, Yi},
@@ -25,7 +25,15 @@ If you are using any part of our Object-specific Distance dataset(s), please add
   pages={3839--3848},
   year={2019}
 }
-``
+`
+
+> @inproceedings{zhu2019learning,
+>   title={Learning object-specific distance from a monocular image},
+>   author={Zhu, Jing and Fang, Yi},
+>   booktitle={Proceedings of the IEEE International Conference on Computer Vision},
+>   pages={3839--3848},
+>   year={2019}
+> }
 
 License
 --------
