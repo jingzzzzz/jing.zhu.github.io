@@ -8,7 +8,7 @@ permalink: /datasets/distance-dataset
 
 Datasets constructed based on KITTI and NuScenes object detection datasets. For each object in the RGB image, we calculate a object-specific distance (in meters) from a set of LiDAR point clouds. For more details, please refer to [our paper](https://openaccess.thecvf.com/content_ICCV_2019/papers/Zhu_Learning_Object-Specific_Distance_From_a_Monocular_Image_ICCV_2019_paper.pdf). 
 
-<img src="/images/DistanceDataset.png" alt="drawing" align="left" width="600" height="350"/>  <br>
+<img src="/images/DistanceDataset.png" alt="drawing" align="left" width="700" height="350"/>  <br>
 
 
 
