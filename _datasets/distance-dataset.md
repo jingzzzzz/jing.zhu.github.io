@@ -27,6 +27,17 @@ If you are using any part of our Object-specific Distance dataset(s), please add
 > }
 
 
+--------------------------------------------------------------------------------
+@inproceedings{zhu2019learning,
+  title={Learning object-specific distance from a monocular image},
+  author={Zhu, Jing and Fang, Yi},
+  booktitle={Proceedings of the IEEE International Conference on Computer Vision},
+  pages={3839--3848},
+  year={2019}
+}
+
+
+
 License
 --------
 Please notice that this dataset is made availbale for academic research purpose only. The copyright of the original data (i.e., object annotaion, images, LiDAR point clouds) belongs to the original owners (KITTI or NuScenes team). 
