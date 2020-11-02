@@ -30,17 +30,22 @@ If you are using any part of our Object-specific Distance dataset(s) or codes, p
 
 License
 --------
-Please notice that this dataset is made availbale for **academic research purpose** only. The copyright of the original data (i.e., object annotaion, images, LiDAR point clouds) belongs to the original owners (KITTI or NuScenes team). 
+Please notice that this dataset is made available for **academic research purpose** only. The copyright of the original data (i.e., object annotation, images, LiDAR point clouds, calibration settings) belongs to the original owners (KITTI or NuScenes team). 
 
 
 
 Download
 --------
-* KITTI-based 
+* KITTI-based
+  * Overview: 
+  >image: RGB images (collect from KITTI left color images)
+  >DistLabel: a label for each image. Please see blow for full description. 
+  >Project3DTo2D: 4x3 projection matrix used to project 3D (XYZ) keypoint to 2D (u,v) image plane 
   * [Distance Dataset]()
   * [Code to calculate distance annotation]()
 
-* NuScenes-based Distance Dataset(*to be released*)
+* NuScenes-based 
+  * Distance Dataset (*to be released*)
 
 
 
