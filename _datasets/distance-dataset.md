@@ -39,7 +39,7 @@ Download
 * KITTI-based
   * Overview: 
   >image: RGB images (collect from KITTI left color images) <br>
-  >DistLabel: a label for each image. Please see blow for full description. <br>
+  >DistLabel: a label for each image. Please *readme.txt* for full description. <br>
   >Project3DTo2D: 4x3 projection matrix used to project 3D (XYZ) keypoint to 2D (u,v) image plane <br>
   
   * [Distance Dataset]()
