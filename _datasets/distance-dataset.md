@@ -10,7 +10,7 @@ Datasets constructed based on KITTI and NuScenes object detection datasets. For 
 
 <img src="/images/DistanceDataset.png" alt="drawing" align="left" width="600" height="350"/>  
 
-\\
+
 
 
 Citation
